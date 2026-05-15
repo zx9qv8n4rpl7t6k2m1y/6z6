@@ -65,7 +65,7 @@
 <body>
 <canvas id="canvas" class="fullscreen"></canvas>
 <div id="loading-overlay" class="fullscreen">
-<img id="icon" src="./icon.png"/>
+<img id="icon" src="https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/qaza@main/Gemini_Generated_Image_uss8suuss8suuss8-removebg-preview.png"/>
 <div id="progress-bar"><div id="progress-bar-fill"></div></div>
 </div>
 <script src="./playgama.js"></script>
